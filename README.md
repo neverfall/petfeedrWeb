@@ -1,2 +1,2 @@
 # petfeedrWeb
-Aplicacion petfeedr vrsion web 
+Aplicacion petfeedr version web 
